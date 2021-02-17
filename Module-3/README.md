@@ -9,3 +9,5 @@ In Module 3 exercise #17 you will change the block-quote below:
 3) Santa Fe trail mix
 4) Slices of meatloaf and mashed potatoes from Baron's
 5) Steamed vegetables
+
+There is nothing better than enjoying your mother-in-law's chile relleno.  It was delicious.
