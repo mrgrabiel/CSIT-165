@@ -2,6 +2,7 @@
 
 In Module 3 exercise #17 you will change the block-quote below:
 
+Could it be another line???
 This is crazy!  What does it all mean?
 
 `This is a line you will change!`
